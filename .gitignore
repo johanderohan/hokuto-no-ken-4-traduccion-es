@@ -1,0 +1,8 @@
+# Nunca subir el juego ni nada derivado de su contenido
+*.nes
+*.fds
+*.zip
+*.7z
+*.rar
+*.xdelta
+*.state
