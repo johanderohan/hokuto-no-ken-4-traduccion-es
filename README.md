@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/nes/hokuto-no-ken-4)**.
+
 Traducción al **español de España** de *Hokuto no Ken 4: Shichisei Haken Den —
 Hokuto Shinken no Kanata e* (北斗の拳4 七星覇拳伝 北斗神拳の彼方へ, Famicom,
 Toei Animation / Shouei System, 1991), el RPG del *Puño de la Estrella del
